@@ -1,0 +1,1842 @@
+[
+  {
+    "record": {
+      "call_id": "CALL-0026",
+      "agent_id": null,
+      "customer_phone": "+917344076115",
+      "start_time": "2026-07-29 07:50:00",
+      "end_time": "2026-07-29 07:51:13",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0029",
+      "agent_id": "AGT-019",
+      "customer_phone": null,
+      "start_time": "2026-09-22 23:31:00",
+      "end_time": "2026-09-22 23:41:51",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 351.67,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0030",
+      "agent_id": null,
+      "customer_phone": "+918881988384",
+      "start_time": "2026-09-23 16:37:00",
+      "end_time": "2026-09-23 16:42:06",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": 1368.94,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0031",
+      "agent_id": "AGT-009",
+      "customer_phone": "+917495762348",
+      "start_time": null,
+      "end_time": "2026-07-09 20:06:32",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0065",
+      "agent_id": "AGT-020",
+      "customer_phone": "+918186564497",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-08-17 15:44:01",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-016",
+      "customer_phone": "+919774131811",
+      "start_time": "2026-07-31 06:12:00",
+      "end_time": "2026-07-31 06:16:21",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D1",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0071",
+      "agent_id": null,
+      "customer_phone": "+917440610570",
+      "start_time": "2026-07-23 14:16:00",
+      "end_time": "2026-07-23 14:18:24",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": 936.89,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0088",
+      "agent_id": "AGT-017",
+      "customer_phone": "+918147497835",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-08-27 10:52:41",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 1215.18,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0095",
+      "agent_id": "AGT-012",
+      "customer_phone": "+918849785671",
+      "start_time": "2026-08-21 22:42:00",
+      "end_time": null,
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D5",
+      "amount_promised": 1395.42,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0102",
+      "agent_id": "AGT-005",
+      "customer_phone": "+917387119894",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-09-27 05:49:44",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 481.51,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0105",
+      "agent_id": "AGT-009",
+      "customer_phone": "+919510666490",
+      "start_time": "2026-08-04 12:17:00",
+      "end_time": null,
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0109",
+      "agent_id": "AGT-012",
+      "customer_phone": "+917933166190",
+      "start_time": null,
+      "end_time": "2026-07-15 10:43:48",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D2",
+      "amount_promised": 288.77,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0122",
+      "agent_id": "AGT-018",
+      "customer_phone": null,
+      "start_time": "2026-09-03 20:38:00",
+      "end_time": "2026-09-03 20:52:40",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": 915.31,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0129",
+      "agent_id": "AGT-001",
+      "customer_phone": "+919136253713",
+      "start_time": "2026-08-30 14:40:00",
+      "end_time": "not-a-valid-timestamp",
+      "call_outcome": "callback_requested",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 1436.98,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "end_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0132",
+      "agent_id": "AGT-008",
+      "customer_phone": "+918871216424",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-09-20 10:08:03",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D1",
+      "amount_promised": 689.52,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0138",
+      "agent_id": "AGT-015",
+      "customer_phone": "+919492495810",
+      "start_time": "2026-07-15 04:28:00",
+      "end_time": "2026-07-15 04:34:48",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": null,
+      "amount_promised": 710.9,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0142",
+      "agent_id": "AGT-005",
+      "customer_phone": "+918502468844",
+      "start_time": null,
+      "end_time": "2026-08-20 21:34:34",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": 345.01,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0144",
+      "agent_id": "AGT-016",
+      "customer_phone": null,
+      "start_time": "2026-08-23 18:47:00",
+      "end_time": "2026-08-23 18:53:04",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0148",
+      "agent_id": "AGT-014",
+      "customer_phone": "+917696034559",
+      "start_time": "2026-08-26 11:28:00",
+      "end_time": "2026-08-26 11:37:15",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 199.14,
+      "retry_flag": null
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: retry_flag"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0153",
+      "agent_id": "AGT-004",
+      "customer_phone": "+917205082311",
+      "start_time": "2026-09-17 14:45:00",
+      "end_time": null,
+      "call_outcome": "no_answer",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 968.52,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-011",
+      "customer_phone": "+918331765783",
+      "start_time": "2026-09-26 17:04:00",
+      "end_time": "2026-09-26 17:04:57",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 1531.25,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-002",
+      "customer_phone": "+919816344780",
+      "start_time": "2026-08-26 12:05:00",
+      "end_time": "2026-08-26 12:18:34",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D1",
+      "amount_promised": 930.21,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0172",
+      "agent_id": "AGT-014",
+      "customer_phone": "+919469178881",
+      "start_time": "2026-08-01 07:34:00",
+      "end_time": "2026-08-01 07:47:22",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": null,
+      "amount_promised": 954.95,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0175",
+      "agent_id": "AGT-018",
+      "customer_phone": "+917401271939",
+      "start_time": "2026-09-15 03:41:00",
+      "end_time": "2026-09-15 03:51:44",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0179",
+      "agent_id": null,
+      "customer_phone": "+917561636336",
+      "start_time": "2026-08-22 00:05:00",
+      "end_time": "2026-08-22 00:11:08",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-019",
+      "customer_phone": "+918343100352",
+      "start_time": "2026-08-31 18:08:00",
+      "end_time": "2026-08-31 18:13:50",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 986.95,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0183",
+      "agent_id": "AGT-010",
+      "customer_phone": "+919305069227",
+      "start_time": "2026-07-17 03:17:00",
+      "end_time": "2026-07-17 03:25:16",
+      "call_outcome": "connected",
+      "language": null,
+      "disposition_code": "D4",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0184",
+      "agent_id": null,
+      "customer_phone": "+917219720597",
+      "start_time": "2026-08-16 11:37:00",
+      "end_time": "2026-08-16 11:38:01",
+      "call_outcome": "no_answer",
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": 834.06,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0186",
+      "agent_id": "AGT-013",
+      "customer_phone": "+919147818256",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-09-13 17:30:56",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": "D1",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0188",
+      "agent_id": "AGT-017",
+      "customer_phone": "+919286382166",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-07-18 13:42:23",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 1649.92,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0194",
+      "agent_id": "AGT-010",
+      "customer_phone": "+918241263320",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-08-27 06:45:05",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": 1011.63,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0197",
+      "agent_id": "AGT-008",
+      "customer_phone": "+918041349374",
+      "start_time": "2026-09-18 04:13:00",
+      "end_time": "not-a-valid-timestamp",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 542.39,
+      "retry_flag": true
+    },
+    "reason": "malformed_timestamp",
+    "detail": "end_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0202",
+      "agent_id": "AGT-017",
+      "customer_phone": "+919121337685",
+      "start_time": null,
+      "end_time": "2026-08-26 09:28:31",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 1636.75,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0203",
+      "agent_id": "AGT-009",
+      "customer_phone": "+917799718923",
+      "start_time": "2026-09-11 00:31:00",
+      "end_time": "2026-09-11 00:42:18",
+      "call_outcome": "connected",
+      "language": null,
+      "disposition_code": "D3",
+      "amount_promised": 1178.78,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0213",
+      "agent_id": "AGT-003",
+      "customer_phone": "+919027530378",
+      "start_time": null,
+      "end_time": "2026-07-04 21:27:16",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D4",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0217",
+      "agent_id": "AGT-014",
+      "customer_phone": "+919641075042",
+      "start_time": "2026-09-17 22:09:00",
+      "end_time": "2026-09-17 22:20:31",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0219",
+      "agent_id": "AGT-019",
+      "customer_phone": "+918369680934",
+      "start_time": null,
+      "end_time": "2026-09-14 07:46:14",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D3",
+      "amount_promised": 1972.82,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-010",
+      "customer_phone": "+917065857791",
+      "start_time": "2026-08-01 17:05:00",
+      "end_time": "2026-08-01 17:10:55",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D6",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0228",
+      "agent_id": "AGT-019",
+      "customer_phone": "+917950365001",
+      "start_time": "2026-08-15 13:34:00",
+      "end_time": "2026-08-15 13:35:01",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D3",
+      "amount_promised": 1209.66,
+      "retry_flag": null
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: retry_flag"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0236",
+      "agent_id": "AGT-003",
+      "customer_phone": "+919807773530",
+      "start_time": "2026-07-04 16:41:00",
+      "end_time": "2026-07-04 16:52:55",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": null,
+      "amount_promised": 1150.13,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0237",
+      "agent_id": "AGT-003",
+      "customer_phone": "+919146875428",
+      "start_time": "2026-07-12 23:16:00",
+      "end_time": null,
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": 1730.12,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0242",
+      "agent_id": "AGT-013",
+      "customer_phone": "+918854772804",
+      "start_time": "2026-07-31 16:38:00",
+      "end_time": "2026-07-31 16:47:41",
+      "call_outcome": null,
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 262.82,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-013",
+      "customer_phone": "+917053002550",
+      "start_time": "2026-07-17 04:10:00",
+      "end_time": "2026-07-17 04:15:47",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D4",
+      "amount_promised": 1477.2,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0248",
+      "agent_id": "AGT-016",
+      "customer_phone": "+917330374745",
+      "start_time": null,
+      "end_time": "2026-08-07 15:39:21",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D2",
+      "amount_promised": 1042.02,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0249",
+      "agent_id": null,
+      "customer_phone": "+918699484121",
+      "start_time": "2026-08-04 20:52:00",
+      "end_time": "2026-08-04 20:57:26",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 726.13,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0252",
+      "agent_id": "AGT-018",
+      "customer_phone": "+917772781491",
+      "start_time": "2026-09-17 05:48:00",
+      "end_time": "2026-09-17 05:58:21",
+      "call_outcome": "connected",
+      "language": null,
+      "disposition_code": "D4",
+      "amount_promised": 498.33,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0266",
+      "agent_id": "AGT-017",
+      "customer_phone": "+918668437028",
+      "start_time": "2026-09-08 12:16:00",
+      "end_time": null,
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 903.77,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0270",
+      "agent_id": "AGT-018",
+      "customer_phone": "+918239829538",
+      "start_time": "2026-08-25 22:43:00",
+      "end_time": "2026-08-25 22:47:05",
+      "call_outcome": null,
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": 1555.25,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-015",
+      "customer_phone": "+918128782794",
+      "start_time": "2026-07-10 16:41:00",
+      "end_time": "2026-07-10 16:41:48",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 323.03,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-012",
+      "customer_phone": "+918952902914",
+      "start_time": "2026-08-11 07:13:00",
+      "end_time": "2026-08-11 07:17:59",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0278",
+      "agent_id": "AGT-012",
+      "customer_phone": "+917272003213",
+      "start_time": "2026-08-04 03:18:00",
+      "end_time": "not-a-valid-timestamp",
+      "call_outcome": "callback_requested",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 1039.96,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "end_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0290",
+      "agent_id": "AGT-018",
+      "customer_phone": "+919933213766",
+      "start_time": "2026-08-13 05:34:00",
+      "end_time": "2026-08-13 05:40:29",
+      "call_outcome": "no_answer",
+      "language": "English",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0293",
+      "agent_id": "AGT-019",
+      "customer_phone": "+919724273037",
+      "start_time": null,
+      "end_time": "2026-09-12 06:46:55",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 1911.51,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0294",
+      "agent_id": "AGT-004",
+      "customer_phone": "+918947217245",
+      "start_time": "2026-09-24 16:55:00",
+      "end_time": "2026-09-24 17:02:39",
+      "call_outcome": null,
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 1507.25,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0299",
+      "agent_id": "AGT-014",
+      "customer_phone": "+917964285941",
+      "start_time": "2026-09-27 06:09:00",
+      "end_time": null,
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 707.88,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0302",
+      "agent_id": "AGT-007",
+      "customer_phone": "+919347454072",
+      "start_time": "2026-08-03 12:23:00",
+      "end_time": "2026-08-03 12:31:40",
+      "call_outcome": null,
+      "language": "Hindi",
+      "disposition_code": "D1",
+      "amount_promised": 145.43,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0305",
+      "agent_id": "AGT-005",
+      "customer_phone": "+919736820502",
+      "start_time": "2026-09-21 05:54:00",
+      "end_time": "not-a-valid-timestamp",
+      "call_outcome": "callback_requested",
+      "language": "Hindi",
+      "disposition_code": "D5",
+      "amount_promised": 926.47,
+      "retry_flag": true
+    },
+    "reason": "malformed_timestamp",
+    "detail": "end_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0306",
+      "agent_id": "AGT-011",
+      "customer_phone": null,
+      "start_time": "2026-09-01 14:44:00",
+      "end_time": "2026-09-01 14:58:46",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D4",
+      "amount_promised": 241.91,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0313",
+      "agent_id": "AGT-006",
+      "customer_phone": "+919464813860",
+      "start_time": "2026-09-16 22:31:00",
+      "end_time": "2026-09-16 22:32:06",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 827.19,
+      "retry_flag": null
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: retry_flag"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0314",
+      "agent_id": "AGT-009",
+      "customer_phone": "+918201966146",
+      "start_time": "2026-09-09 12:47:00",
+      "end_time": "2026-09-09 12:50:26",
+      "call_outcome": "callback_requested",
+      "language": "Hindi",
+      "disposition_code": null,
+      "amount_promised": 1272.26,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0331",
+      "agent_id": "AGT-020",
+      "customer_phone": "+919073338701",
+      "start_time": null,
+      "end_time": "2026-07-23 21:49:23",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-019",
+      "customer_phone": "+919909990149",
+      "start_time": "2026-07-29 05:03:00",
+      "end_time": "2026-07-29 05:12:04",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0346",
+      "agent_id": null,
+      "customer_phone": "+918378118917",
+      "start_time": "2026-09-02 19:41:00",
+      "end_time": "2026-09-02 19:53:56",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 269.65,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0349",
+      "agent_id": "AGT-015",
+      "customer_phone": "+919169501271",
+      "start_time": "2026-09-06 15:37:00",
+      "end_time": "2026-09-06 15:51:18",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": null,
+      "amount_promised": 559.68,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0351",
+      "agent_id": "AGT-006",
+      "customer_phone": "+919457829635",
+      "start_time": "2026-08-26 23:36:00",
+      "end_time": "2026-08-26 23:37:05",
+      "call_outcome": "no_answer",
+      "language": null,
+      "disposition_code": "D6",
+      "amount_promised": 492.79,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0352",
+      "agent_id": "AGT-001",
+      "customer_phone": "+919036231979",
+      "start_time": "2026-07-28 23:05:00",
+      "end_time": "not-a-valid-timestamp",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 116.08,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "end_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0353",
+      "agent_id": "AGT-009",
+      "customer_phone": "+918820236332",
+      "start_time": "2026-07-16 14:15:00",
+      "end_time": "2026-07-16 14:27:21",
+      "call_outcome": null,
+      "language": "English",
+      "disposition_code": "D4",
+      "amount_promised": 986.73,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0356",
+      "agent_id": "AGT-005",
+      "customer_phone": "+917109329542",
+      "start_time": "2026-07-17 11:18:00",
+      "end_time": "2026-07-17 11:23:42",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D3",
+      "amount_promised": 868.74,
+      "retry_flag": null
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: retry_flag"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0376",
+      "agent_id": null,
+      "customer_phone": "+917408015311",
+      "start_time": "2026-08-16 02:40:00",
+      "end_time": "2026-08-16 02:47:31",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 423.97,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: agent_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0378",
+      "agent_id": "AGT-014",
+      "customer_phone": "+919786774414",
+      "start_time": null,
+      "end_time": "2026-08-13 01:14:24",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 211.43,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0381",
+      "agent_id": "AGT-017",
+      "customer_phone": "+919476688619",
+      "start_time": "2026-07-10 14:00:00",
+      "end_time": "2026-07-10 14:12:16",
+      "call_outcome": null,
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": 1407.66,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0392",
+      "agent_id": "AGT-006",
+      "customer_phone": "+919971334438",
+      "start_time": "2026-07-19 08:01:00",
+      "end_time": "2026-07-19 08:09:55",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0402",
+      "agent_id": "AGT-003",
+      "customer_phone": "+917803058282",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-08-25 10:00:54",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-005",
+      "customer_phone": "+917691184145",
+      "start_time": "2026-08-08 15:25:00",
+      "end_time": "2026-08-08 15:29:45",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D3",
+      "amount_promised": 1881.24,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0409",
+      "agent_id": "AGT-006",
+      "customer_phone": null,
+      "start_time": "2026-08-21 07:55:00",
+      "end_time": "2026-08-21 07:56:53",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D1",
+      "amount_promised": 1296.08,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0412",
+      "agent_id": "AGT-013",
+      "customer_phone": "+918859828364",
+      "start_time": "2026-08-10 11:32:00",
+      "end_time": null,
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 1116.19,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0414",
+      "agent_id": "AGT-001",
+      "customer_phone": "+919035761595",
+      "start_time": "2026-08-14 11:08:00",
+      "end_time": "2026-08-14 11:19:31",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0416",
+      "agent_id": "AGT-018",
+      "customer_phone": "+919351603889",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-10-01 05:28:58",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D2",
+      "amount_promised": 1816.74,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0417",
+      "agent_id": "AGT-017",
+      "customer_phone": "+917611840071",
+      "start_time": "2026-09-04 10:03:00",
+      "end_time": "2026-09-04 10:14:16",
+      "call_outcome": "no_answer",
+      "language": null,
+      "disposition_code": "D2",
+      "amount_promised": 580.21,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0418",
+      "agent_id": "AGT-002",
+      "customer_phone": null,
+      "start_time": "2026-09-08 02:09:00",
+      "end_time": "2026-09-08 02:18:55",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0424",
+      "agent_id": "AGT-019",
+      "customer_phone": "+919486359959",
+      "start_time": "not-a-valid-timestamp",
+      "end_time": "2026-09-29 07:20:46",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 1148.03,
+      "retry_flag": false
+    },
+    "reason": "malformed_timestamp",
+    "detail": "start_time: Invalid timestamp: 'not-a-valid-timestamp'"
+  },
+  {
+    "record": {
+      "call_id": null,
+      "agent_id": "AGT-014",
+      "customer_phone": "+917096405016",
+      "start_time": "2026-07-18 18:19:00",
+      "end_time": "2026-07-18 18:33:28",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 406.15,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_id"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0434",
+      "agent_id": "AGT-009",
+      "customer_phone": "+917773255350",
+      "start_time": "2026-07-20 19:57:00",
+      "end_time": "2026-07-20 20:00:05",
+      "call_outcome": null,
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 1769.17,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: call_outcome"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0435",
+      "agent_id": "AGT-016",
+      "customer_phone": "+919068750029",
+      "start_time": null,
+      "end_time": "2026-09-21 17:42:36",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 1609.77,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: start_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0438",
+      "agent_id": "AGT-018",
+      "customer_phone": "+919161782487",
+      "start_time": "2026-07-15 04:58:00",
+      "end_time": null,
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 1813.77,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0439",
+      "agent_id": "AGT-014",
+      "customer_phone": "+918590759039",
+      "start_time": "2026-07-07 03:33:00",
+      "end_time": null,
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 1883.0,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: end_time"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0443",
+      "agent_id": "AGT-018",
+      "customer_phone": null,
+      "start_time": "2026-07-10 05:44:00",
+      "end_time": "2026-07-10 05:48:42",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": 855.16,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: customer_phone"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0450",
+      "agent_id": "AGT-013",
+      "customer_phone": "+918516671766",
+      "start_time": "2026-09-11 21:43:00",
+      "end_time": "2026-09-11 21:56:33",
+      "call_outcome": "callback_requested",
+      "language": null,
+      "disposition_code": "D5",
+      "amount_promised": 129.2,
+      "retry_flag": true
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: language"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0460",
+      "agent_id": "AGT-005",
+      "customer_phone": "+917232564616",
+      "start_time": "2026-08-12 16:12:00",
+      "end_time": "2026-08-12 16:22:05",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": null,
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: disposition_code"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0475",
+      "agent_id": "AGT-009",
+      "customer_phone": "+919355984014",
+      "start_time": "2026-08-21 08:31:00",
+      "end_time": "2026-08-21 08:40:28",
+      "call_outcome": "callback_requested",
+      "language": "Hindi",
+      "disposition_code": "D6",
+      "amount_promised": 1222.58,
+      "retry_flag": null
+    },
+    "reason": "missing_field",
+    "detail": "Missing required fields: retry_flag"
+  },
+  {
+    "record": {
+      "call_id": "CALL-0001",
+      "agent_id": "AGT-009",
+      "customer_phone": "+918051802512",
+      "start_time": "2026-07-12 20:59:00",
+      "end_time": "2026-07-12 21:11:54",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D6",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0002",
+      "agent_id": "AGT-003",
+      "customer_phone": "+917939042955",
+      "start_time": "2026-07-18 10:58:00",
+      "end_time": "2026-07-18 10:58:45",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0003",
+      "agent_id": "AGT-008",
+      "customer_phone": "+918929338154",
+      "start_time": "2026-07-10 01:26:00",
+      "end_time": "2026-07-10 01:33:24",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 746.48,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0004",
+      "agent_id": "AGT-013",
+      "customer_phone": "+917415393687",
+      "start_time": "2026-09-04 13:54:00",
+      "end_time": "2026-09-04 13:55:49",
+      "call_outcome": "dropped",
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": 182.56,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0005",
+      "agent_id": "AGT-003",
+      "customer_phone": "+919370996465",
+      "start_time": "2026-07-25 20:01:00",
+      "end_time": "2026-07-25 20:07:42",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 787.11,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0006",
+      "agent_id": "AGT-010",
+      "customer_phone": "+917342703921",
+      "start_time": "2026-09-23 22:18:00",
+      "end_time": "2026-09-23 22:22:08",
+      "call_outcome": "no_answer",
+      "language": "Hindi",
+      "disposition_code": "D4",
+      "amount_promised": 1307.8,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0007",
+      "agent_id": "AGT-009",
+      "customer_phone": "+919935814872",
+      "start_time": "2026-09-11 12:38:00",
+      "end_time": "2026-09-11 12:41:49",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0008",
+      "agent_id": "AGT-018",
+      "customer_phone": "+917943239974",
+      "start_time": "2026-09-11 09:36:00",
+      "end_time": "2026-09-11 09:40:51",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": 1629.59,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0009",
+      "agent_id": "AGT-011",
+      "customer_phone": "+917913224047",
+      "start_time": "2026-08-28 21:47:00",
+      "end_time": "2026-08-28 21:56:55",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 603.27,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0010",
+      "agent_id": "AGT-019",
+      "customer_phone": "+918840109255",
+      "start_time": "2026-07-22 06:44:00",
+      "end_time": "2026-07-22 06:56:59",
+      "call_outcome": "callback_requested",
+      "language": "English",
+      "disposition_code": "D2",
+      "amount_promised": 362.83,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0011",
+      "agent_id": "AGT-005",
+      "customer_phone": "+919694860228",
+      "start_time": "2026-09-20 22:05:00",
+      "end_time": "2026-09-20 22:07:07",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 831.06,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0012",
+      "agent_id": "AGT-001",
+      "customer_phone": "+919921794983",
+      "start_time": "2026-07-26 15:25:00",
+      "end_time": "2026-07-26 15:39:56",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 1560.34,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0013",
+      "agent_id": "AGT-015",
+      "customer_phone": "+917013938521",
+      "start_time": "2026-09-17 14:33:00",
+      "end_time": "2026-09-17 14:35:56",
+      "call_outcome": "dropped",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 302.18,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0014",
+      "agent_id": "AGT-005",
+      "customer_phone": "+918605947756",
+      "start_time": "2026-07-12 07:22:00",
+      "end_time": "2026-07-12 07:25:38",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D5",
+      "amount_promised": 1237.99,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0015",
+      "agent_id": "AGT-010",
+      "customer_phone": "+918028439863",
+      "start_time": "2026-09-29 20:01:00",
+      "end_time": "2026-09-29 20:07:26",
+      "call_outcome": "connected",
+      "language": "Hindi",
+      "disposition_code": "D5",
+      "amount_promised": 262.74,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0016",
+      "agent_id": "AGT-005",
+      "customer_phone": "+919833608204",
+      "start_time": "2026-09-23 06:11:00",
+      "end_time": "2026-09-23 06:13:23",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": 1757.62,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0017",
+      "agent_id": "AGT-007",
+      "customer_phone": "+918338811290",
+      "start_time": "2026-09-04 06:12:00",
+      "end_time": "2026-09-04 06:24:42",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": 1809.27,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0018",
+      "agent_id": "AGT-011",
+      "customer_phone": "+917090341465",
+      "start_time": "2026-09-16 16:46:00",
+      "end_time": "2026-09-16 16:47:20",
+      "call_outcome": "no_answer",
+      "language": "Marathi",
+      "disposition_code": "D2",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0019",
+      "agent_id": "AGT-011",
+      "customer_phone": "+917304330003",
+      "start_time": "2026-09-02 21:03:00",
+      "end_time": "2026-09-02 21:03:47",
+      "call_outcome": "no_answer",
+      "language": "English",
+      "disposition_code": "D6",
+      "amount_promised": 1124.54,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0020",
+      "agent_id": "AGT-007",
+      "customer_phone": "+917405126228",
+      "start_time": "2026-08-31 08:09:00",
+      "end_time": "2026-08-31 08:16:11",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D4",
+      "amount_promised": 881.09,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0021",
+      "agent_id": "AGT-002",
+      "customer_phone": "+918729245242",
+      "start_time": "2026-07-07 03:19:00",
+      "end_time": "2026-07-07 03:20:55",
+      "call_outcome": "dropped",
+      "language": "Hindi",
+      "disposition_code": "D2",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0022",
+      "agent_id": "AGT-015",
+      "customer_phone": "+918072910527",
+      "start_time": "2026-09-14 10:49:00",
+      "end_time": "2026-09-14 10:54:00",
+      "call_outcome": "connected",
+      "language": "English",
+      "disposition_code": "D5",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0023",
+      "agent_id": "AGT-016",
+      "customer_phone": "+919067418686",
+      "start_time": "2026-09-20 16:50:00",
+      "end_time": "2026-09-20 16:57:11",
+      "call_outcome": "no_answer",
+      "language": "English",
+      "disposition_code": "D1",
+      "amount_promised": null,
+      "retry_flag": true
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0024",
+      "agent_id": "AGT-015",
+      "customer_phone": "+918225136114",
+      "start_time": "2026-08-13 15:01:00",
+      "end_time": "2026-08-13 15:14:37",
+      "call_outcome": "callback_requested",
+      "language": "Marathi",
+      "disposition_code": "D6",
+      "amount_promised": 1155.96,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  },
+  {
+    "record": {
+      "call_id": "CALL-0025",
+      "agent_id": "AGT-002",
+      "customer_phone": "+919487560384",
+      "start_time": "2026-09-12 17:42:00",
+      "end_time": "2026-09-12 17:45:57",
+      "call_outcome": "connected",
+      "language": "Marathi",
+      "disposition_code": "D3",
+      "amount_promised": null,
+      "retry_flag": false
+    },
+    "reason": "duplicate",
+    "detail": "Exact duplicate raw record."
+  }
+]

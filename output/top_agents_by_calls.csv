@@ -1,0 +1,4 @@
+agent_id,total_calls,connected,no_answer,dropped,callback_requested
+AGT-017,25,5,4,8,8
+AGT-016,24,9,7,3,5
+AGT-018,24,3,6,7,8
